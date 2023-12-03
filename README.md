@@ -1,3 +1,5 @@
+# NOTE: This is not my project, this is just a fork of the main project "allusive-dev/compfy". This repository might add or remove features etc, but for now this project is exactly the same as "allusive-dev/compfy". Please use "allusive-dev/compfy" at this point in time, until this repository gets updated.
+
 # Compfy
 
 1. [Introduction](#introduction)
